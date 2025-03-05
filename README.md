@@ -1,3 +1,5 @@
+# All tests UI + API will be handled by https://github.com/trustification/trustify-ui-tests
+
 # trustify-api-tests
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
